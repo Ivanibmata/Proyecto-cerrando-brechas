@@ -1,0 +1,13 @@
+name: ShinyOIT
+title: ShinyOIT
+username:
+account: ivanmata
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5161017
+bundleId: 5312291
+url: https://ivanmata.shinyapps.io/ShinyOIT/
+when: 1638326370.41364
+lastSyncTime: 1638326370.41365
+asMultiple: FALSE
+asStatic: FALSE
